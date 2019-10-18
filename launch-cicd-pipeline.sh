@@ -1,6 +1,6 @@
 #!/bin/bash
 AWS_DEFAULT_REGION="eu-central-1"
-Email="ankush.basavarajappa@lhind.dlh.com"
+Email="ankush.basavarajappa@lhind.dlh.de"
 
 # Parameters to Configure Specific Github Repo
 GitHub_User="aws-ariane"

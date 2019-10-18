@@ -1,0 +1,3 @@
+recursive-include awscoreml/data/ *.csv
+recursive-include awscoreml/data/ *.json
+recursive-include awscoreml/ *.conf

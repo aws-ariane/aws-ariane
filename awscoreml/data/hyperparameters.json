@@ -1,0 +1,6 @@
+{
+    "vocab_size": 30,
+    "batch_size": 10,
+    "validation_split": 0.2,
+    "epochs": 5
+}
